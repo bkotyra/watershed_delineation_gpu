@@ -1,0 +1,6 @@
+ALGORITHM,DESCRIPTION
+FPR,flow path reduction - single buffer (GPU)
+FPRBB,flow path reduction - back buffer (GPU)
+FPT,flow path tracing (GPU)
+LP,label pulling (GPU)
+RS,recursive sequential
