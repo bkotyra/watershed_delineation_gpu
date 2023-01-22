@@ -1,4 +1,4 @@
-This repository is part of an ongoing publication.
+This repository is part of the work presented in [High-performance watershed delineation algorithm for GPU using CUDA and OpenMP](https://doi.org/10.1016/j.envsoft.2022.105613).
 
 ---
 
